@@ -24,17 +24,20 @@ short_bio: >-
 portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: Reichman University
+  logo: ""
   position: >-
     Ph.D. in Computer Science
   date: Oct. 2025 - Present
 
 - name: Reichman University
+  logo: ""
   position: >-
     M.Sc. in Machine Learning and Data Science <br/>
     GPA: 95
   date: Dec. 2023 - Oct. 2025
 
 - name: Technion - Israel Institute of Technology
+  logo: ""
   position: >-
     B.Sc. in Data Science and Engineering <br/>
     GPA: 84
@@ -42,27 +45,33 @@ education:
 
 experience:
 - name: Reichman University
+  logo: ""
   position: >-
     Teaching Assistant - Large Language Models for Software Engineering
   date: Mar. 2026 - Present
 
 - name: Reichman University
+  logo: ""
   position: Teaching Assistant - Deep Learning
   date: Oct. 2025 - Mar. 2026
 
 - name: Google Research / I-DRIM
+  logo: ""
   position: Student Researcher
   date: Aug. 2023 - Jul. 2024
 
 - name: Cyber Education Center
+  logo: ""
   position: AI & Coding Course Developer for Youth
   date: Jan. 2025 - Present
 
 - name: Technion University
+  logo: ""
   position: Head Teaching Assistant - Quantitative Temporal Models in Fintech
   date: Feb. 2023 - Jul. 2023
 
 - name: Acronis
+  logo: ""
   position: Junior Data Scientist
   date: Apr. 2022 - Apr. 2023
   
