@@ -84,7 +84,7 @@ width: 12
     </div>
 
     <div class="research-card">
-      <span class="research-tag">NLP · Social Networks</span>
+      <span class="research-tag">NLP · ML · Social Networks</span>
       <h3>Suicide Risk Detection</h3>
       <p><strong>Collaboration:</strong> Dr. Yaakov Ofir</p>
       <p>
@@ -96,7 +96,7 @@ width: 12
     </div>
 
     <div class="research-card">
-      <span class="research-tag">Speech · PPD</span>
+      <span class="research-tag">Speech · ML · PPD</span>
       <h3>Postpartum Depression</h3>
       <p><strong>Collaboration:</strong> Prof. Ruth Feldman</p>
       <p>
@@ -108,7 +108,7 @@ width: 12
     </div>
 
     <div class="research-card">
-      <span class="research-tag">Clinical AI</span>
+      <span class="research-tag">Clinical AI · ML </span>
       <h3>Conversion Disorder</h3>
       <p><strong>Collaboration:</strong> Ichilov Hospital</p>
       <p>
