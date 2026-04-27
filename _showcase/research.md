@@ -5,38 +5,49 @@ show: true
 width: 12
 ---
 
-## Mental Health and AI
+<div class="p-4">
 
-My research focuses on developing computational methods for identifying, monitoring, and evaluating mental health conditions using multimodal signals, including speech, language, and behavioral data.
+<h2>Current Research</h2>
 
----
+<p style="font-size: 1.1rem;">
+My research explores how speech, language, and behavioral signals can support
+the identification, monitoring, and evaluation of mental health conditions.
+</p>
 
-## Conversion Disorder
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.2rem; margin-top: 2rem;">
 
-**Collaboration with Ichilov Hospital**
+<div style="padding: 1.4rem; border-radius: 18px; background: #f8fafc; border: 1px solid #e5e7eb;">
+<h3>PTSD and Audio Analysis</h3>
+<p><strong>Collaboration:</strong> Dr. Yulia Golland and Prof. Rany Abend</p>
+<p>
+Investigating vocal and acoustic markers related to PTSD, with the goal of identifying speech patterns that reflect emotional and cognitive states and may support clinical assessment and treatment monitoring.
+</p>
+</div>
 
-This project explores the intersection of neurological and psychological conditions through computational analysis. We aim to identify patterns in language, speech, and behavior that may contribute to a better understanding and diagnosis of conversion disorder.
+<div style="padding: 1.4rem; border-radius: 18px; background: #f8fafc; border: 1px solid #e5e7eb;">
+<h3>Suicide Risk Detection</h3>
+<p><strong>Collaboration:</strong> Dr. Yaakov Ofir</p>
+<p>
+Using NLP to study suicide risk detection in social networks, focusing on linguistic signals, expression patterns, and contextual cues that may support early identification of at-risk individuals.
+</p>
+</div>
 
----
+<div style="padding: 1.4rem; border-radius: 18px; background: #f8fafc; border: 1px solid #e5e7eb;">
+<h3>Postpartum Depression</h3>
+<p><strong>Collaboration:</strong> Prof. Ruth Feldman</p>
+<p>
+Studying behavioral and vocal markers of postpartum depression to develop computational tools for early detection and objective assessment of maternal mental health and interaction patterns.
+</p>
+</div>
 
-## Postpartum Depression
+<div style="padding: 1.4rem; border-radius: 18px; background: #f8fafc; border: 1px solid #e5e7eb;">
+<h3>Conversion Disorder</h3>
+<p><strong>Collaboration:</strong> Ichilov Hospital</p>
+<p>
+Exploring language, speech, and behavioral patterns that may contribute to better understanding and diagnosis of conversion disorder through computational analysis.
+</p>
+</div>
 
-**Collaboration with Prof. Ruth Feldman**
+</div>
 
-This project studies behavioral and vocal markers of postpartum depression. The goal is to develop computational tools that can assist in early detection and provide objective measures of maternal mental health and interaction patterns.
-
----
-
-## Suicide Risk Detection in Social Networks
-
-**Collaboration with Dr. Yaakov Ofir**
-
-This research focuses on suicide risk detection in social networks using natural language processing techniques. We explore how linguistic signals, expression patterns, and contextual cues may support early identification of at-risk individuals.
-
----
-
-## PTSD and Audio Analysis
-
-**Collaboration with Dr. Yulia Golland and Prof. Rany Abend**
-
-This project investigates vocal and acoustic markers related to post-traumatic stress disorder. We aim to identify speech patterns that reflect emotional and cognitive states and develop models that can support clinical assessment and treatment monitoring.
+</div>
