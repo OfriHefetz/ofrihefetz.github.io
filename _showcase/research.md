@@ -18,19 +18,21 @@ the identification, monitoring, and evaluation of mental health conditions.
 
 
 
-<div style="padding: 1.4rem; border-radius: 18px; background: #f8fafc; border: 1px solid #e5e7eb;">
-<h3>Suicide Risk Detection</h3>
-<p><strong>Collaboration:</strong> Dr. Yaakov Ofir Lab</p>
-<p>
-Using NLP to study suicide risk detection in social networks, focusing on linguistic signals, expression patterns, and contextual cues that may support early identification of at-risk individuals.
-</p>
-</div>
+
 
 <div style="padding: 1.4rem; border-radius: 18px; background: #f8fafc; border: 1px solid #e5e7eb;">
 <h3>Postpartum Depression</h3>
 <p><strong>Collaboration:</strong> Prof. Ruth Feldman Lab </p>
 <p>
 Studying behavioral and vocal markers of postpartum depression to develop computational tools for early detection and objective assessment of maternal mental health and interaction patterns.
+</p>
+</div>
+
+<div style="padding: 1.4rem; border-radius: 18px; background: #f8fafc; border: 1px solid #e5e7eb;">
+<h3>Suicide Risk Detection</h3>
+<p><strong>Collaboration:</strong> Dr. Yaakov Ofir Lab</p>
+<p>
+Using NLP to study suicide risk detection in social networks, focusing on linguistic signals, expression patterns, and contextual cues that may support early identification of at-risk individuals.
 </p>
 </div>
 
