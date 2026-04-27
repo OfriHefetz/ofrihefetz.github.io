@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #c1d5f5 !important;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #1f2937 !important;
+}
+
+.navbar .nav-link.active {
+  color: #4f46e5 !important;
+  font-weight: 600;
+}
