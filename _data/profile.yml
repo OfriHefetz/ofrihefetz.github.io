@@ -22,7 +22,6 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-
 education:
 - name: Reichman University
   position: >-
@@ -66,7 +65,7 @@ experience:
 - name: Acronis
   position: Junior Data Scientist
   date: Apr. 2022 - Apr. 2023
-
+  
 awards:
 - name: Honorary Navy Excellence Award
   date: 2017
