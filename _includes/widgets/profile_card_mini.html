@@ -9,13 +9,15 @@
                         <div class="figure d-none d-md-block">
                             <img 
                                 src="{{ site.data.profile.portrait_url | relative_url }}" 
-                                style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;"
+                                style="width: 210px; height: 260px; object-fit: cover; object-position: center top; border-radius: 18px; display: block; margin-left: auto; margin-right: auto;"
                                 data-toggle="tooltip" 
                                 data-placement="top" 
                                 title="{{ site.data.profile.portrait_caption }}">
                         </div>
                         <div class="mb-3 d-md-none text-center">
-                            <img src="{{ site.data.profile.portrait_url | relative_url }}" class="rounded-circle" style="max-width: 50%;" alt="Portrait">
+                            <img src="{{ site.data.profile.portrait_url | relative_url }}" 
+                                 style="width: 180px; height: 220px; object-fit: cover; object-position: center top; border-radius: 18px;" 
+                                 alt="Portrait">
                         </div>
                         {% endif %}
                     </div>
