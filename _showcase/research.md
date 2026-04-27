@@ -1,6 +1,7 @@
 ---
 title: "Current Research"
 date: 2026-01-01 00:00:00 +0300
+show: true
 width: 12
 ---
 
