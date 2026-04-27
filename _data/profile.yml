@@ -3,26 +3,22 @@ secondary_name: ""
 navbar_name: "Ofri Hefetz"
 
 positions:
-- name: MSc Student, Machine Learning & Data Science
-- name: Reichman University
+- name: PhD Student in Computer Science
+- name: NLP · Mental Health · Audio Analysis · Machine Learning
 
 email: "Ofri.Hefetz@gmail.com"
+# cv_link: /assets/pdf/Ofri_Hefetz_CV.pdf
 github: OfriHefetz
-# linkedin: ofri-hefetz   # (you can add later)
+# linkedin: ofri-hefetz
+# gscholar:
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an MSc student in Machine Learning and Data Science with a strong
-    background in NLP, deep learning, and data analysis.
-  </p>
-  <p>
-    My work focuses on combining machine learning with real-world applications,
-    including language models, healthcare prediction, and decision-making systems.
-  </p>
-  <p>
-    I am particularly interested in how AI systems can model complex human behavior
-    and support impactful applications in domains such as healthcare and finance.
+    I am a PhD student in Computer Science specializing in natural language processing
+    and mental health applications. My research focuses on combining language and vocal markers
+    to develop computational methods for identifying and evaluating
+    mental health signals.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -30,26 +26,53 @@ portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: Reichman University
   position: >-
-    M.Sc. in Machine Learning & Data Science
-  date: Dec 2023 - Present
+    Ph.D. in Computer Science
+  date: Oct. 2025 - Present
 
-- name: Technion – Israel Institute of Technology
-  position: B.Sc. in Data Science & Engineering
+- name: Reichman University
+  position: >-
+    M.Sc. in Machine Learning and Data Science <br/>
+    GPA: 95
+  date: Dec. 2023 - Oct. 2025
+
+- name: Technion - Israel Institute of Technology
+  position: >-
+    B.Sc. in Data Science and Engineering <br/>
+    GPA: 84
   date: 2019 - 2023
 
 experience:
-- name: Google (Research, I-DRIM)
+- name: Reichman University
+  position: >-
+    Teaching Assistant - Large Language Models for Software Engineering
+  date: Mar. 2026 - Present
+
+- name: Reichman University
+  position: Teaching Assistant - Deep Learning
+  date: Oct. 2025 - Mar. 2026
+
+- name: Google Research / I-DRIM
   position: Student Researcher
-  date: Aug 2023 - Jul 2024
+  date: Aug. 2023 - Jul. 2024
+
+- name: Cyber Education Center
+  position: AI & Coding Course Developer for Youth
+  date: Jan. 2025 - Present
+
+- name: Technion University
+  position: Head Teaching Assistant - Quantitative Temporal Models in Fintech
+  date: Feb. 2023 - Jul. 2023
 
 - name: Acronis
   position: Junior Data Scientist
-  date: Apr 2022 - Apr 2023
-
-- name: Reichman University
-  position: Head Teaching Assistant – Quantitative Temporal Models in Fintech
-  date: Feb 2023 - Jul 2023
+  date: Apr. 2022 - Apr. 2023
 
 awards:
-- name: Navy Excellence Award
+- name: Honorary Navy Excellence Award
   date: 2017
+
+- name: 4th Place - Kaggle Recommendation Systems Competition (MovieLens 32M)
+  date: 2024
+
+- name: Finalist - Israel Central Bureau of Statistics Hackathon
+  date: 2024
