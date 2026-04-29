@@ -53,6 +53,10 @@ width: 12
   font-weight: 600;
 }
 
+.status- initiation {
+  background: #dcfce7;
+  color: #166534;
+}    
 .status-ongoing {
   background: #dcfce7;
   color: #166534;
@@ -80,7 +84,7 @@ width: 12
         identifying speech patterns that reflect emotional and cognitive states and may
         support clinical assessment and treatment monitoring.
       </p>
-      <span class="status status-ongoing">Ongoing</span>
+      <span class="status status-initiation">Initiation</span>
     </div>
 
     <div class="research-card">
