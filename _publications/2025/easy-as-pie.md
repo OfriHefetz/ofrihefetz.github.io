@@ -1,5 +1,6 @@
 ---
 title: "Easy as PIE? Identifying Multi-Word Expressions with LLMs"
+date: 2025-11-01
 selected: true
 pub: "EMNLP 2025"
 pub_date: "2025"

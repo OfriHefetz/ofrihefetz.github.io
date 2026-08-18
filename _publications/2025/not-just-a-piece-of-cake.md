@@ -13,5 +13,5 @@ authors:
 - Alon Mannor
 - Kfir Bar
 links:
-  Paper: "[[link](https://aclanthology.org/2025.ijcnlp-long.136/)]"
+  Paper: "https://aclanthology.org/2025.ijcnlp-long.136/"
 ---
